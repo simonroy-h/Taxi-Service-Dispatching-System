@@ -11,10 +11,10 @@
 8. Build and Run the application
 
 #### Sample input/output:
-![alt text](https://github.com/simonroy-h/Grocery-Store/blob/master/img/1.png)
-![alt text](https://github.com/simonroy-h/Grocery-Store/blob/master/img/2.png)
-![alt text](https://github.com/simonroy-h/Grocery-Store/blob/master/img/3.png)
-![alt text](https://github.com/simonroy-h/Grocery-Store/blob/master/img/4.png)
-![alt text](https://github.com/simonroy-h/Grocery-Store/blob/master/img/5.png)
-![alt text](https://github.com/simonroy-h/Grocery-Store/blob/master/img/6.png)
-![alt text](https://github.com/simonroy-h/Grocery-Store/blob/master/img/7.png)
+![alt text](https://github.com/simonroy-h/Taxi-Service-Dispatching-System/blob/master/img/1.png)
+![alt text](https://github.com/simonroy-h/Taxi-Service-Dispatching-System/blob/master/img/2.png)
+![alt text](https://github.com/simonroy-h/Taxi-Service-Dispatching-System/blob/master/img/3.png)
+![alt text](https://github.com/simonroy-h/Taxi-Service-Dispatching-System/blob/master/img/4.png)
+![alt text](https://github.com/simonroy-h/Taxi-Service-Dispatching-System/blob/master/img/5.png)
+![alt text](https://github.com/simonroy-h/Taxi-Service-Dispatching-System/blob/master/img/6.png)
+![alt text](https://github.com/simonroy-h/Taxi-Service-Dispatching-System/blob/master/img/7.png)
